@@ -2,7 +2,11 @@
 
 This repository collects beginner-friendly materials for explaining how large language models work.
 
-The first module uses one simple sentence, `We love AI.`, to walk through the core Transformer flow step by step: tokenization, embeddings, Q/K/V, attention, residual connections, layer normalization, and the MLP block.
+The first module uses one inspectable sentence from the notebook:
+
+> At Oracle Park, Trina asked the old oracle whether Oracle Linux would boot before the database demo.
+
+That sentence is used to walk through the core Transformer flow step by step: tokenization, embeddings, Q/K/V, attention, residual connections, layer normalization, the feed-forward block, logits, softmax, and next-token prediction.
 
 ## Contents
 
@@ -11,6 +15,10 @@ The first module uses one simple sentence, `We love AI.`, to walk through the co
 - `results/transformer_one_sentence_en.zip` - Downloadable bundle for the English report.
 - `results/transformer_lab_outputs.zip` - Output bundle from the Transformer lab.
 - `results/equations.zip` - Supporting equation assets.
+
+## Open in Colab
+
+[Open the Transformer notebook in Colab](https://colab.research.google.com/github/trinashih/LLM_Basic/blob/main/notebooks/transformer_one_sentence_en.ipynb)
 
 ## How to Use
 
