@@ -1,0 +1,34 @@
+step,selected token,ID,raw model p,selection p,raw top 3,text so far
+1,[sp]be,307,0.2731826603412628,1.0,"[sp]be, [sp]ever, [sp]allow","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be"
+2,[sp]available,1695,0.09316759556531906,1.0,"[sp]available, [sp]able, [sp]open","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available"
+3,[sp]for,329,0.20318594574928284,1.0,"[sp]for, [sp]to, [sp]on","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for"
+4,[sp]the,262,0.10459218919277191,1.0,"[sp]the, [sp]free, [sp]use","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the"
+5,[sp]first,717,0.09062105417251587,1.0,"[sp]first, [sp]next, [sp]new","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first"
+6,[sp]time,640,0.928043782711029,1.0,"[sp]time, [sp]few, [sp]year","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time"
+7,.,13,0.3226739168167114,1.0,"., [sp]in, [sp]on","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time."
+8,[nl],198,0.23868504166603088,1.0,"[nl], [sp]"", [sp]The","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+"
+9,[nl],198,0.999504566192627,1.0,"[nl], "", [sp]""","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+"
+10,"""",1,0.6033071279525757,1.0,""", The, Oracle","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+"""
+11,I,40,0.15879927575588226,1.0,"I, No, Yes","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+""I"
+12,[sp]don,836,0.14514082670211792,1.0,"[sp]don, 'm, [sp]think","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+""I don"
+13,'t,470,0.9995606541633606,1.0,"'t, ., '","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+""I don't"
+14,[sp]know,760,0.5676326751708984,1.0,"[sp]know, [sp]think, [sp]want","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+""I don't know"
+15,",""",553,0.31118902564048767,1.0,","", [sp]if, ,","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+""I don't know,"""
+16,[sp]Tr,833,0.2211313247680664,1.0,"[sp]Tr, [sp]she, [sp]the","At Oracle Park, Trina asked the old oracle whether Oracle Linux would be available for the first time.
+
+""I don't know,"" Tr"

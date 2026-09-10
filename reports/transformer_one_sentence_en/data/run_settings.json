@@ -1,0 +1,15 @@
+{
+  "text": "At Oracle Park, Trina asked the old oracle whether Oracle Linux would boot before the database demo.",
+  "query_text": " Linux",
+  "query_token_id": 7020,
+  "wordlike_filter": true,
+  "top_k": 20,
+  "prompt": "At Oracle Park, Trina asked the old oracle whether Oracle Linux would",
+  "generation_mode": "greedy",
+  "temperature": 0.8,
+  "sampling_top_k": 40,
+  "max_new_tokens": 16,
+  "bert_enabled": true,
+  "bertviz_enabled": true,
+  "show_3d": true
+}

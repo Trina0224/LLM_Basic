@@ -1,0 +1,7 @@
+sentence A,sentence B,human sense grouping,cosine
+Oracle Linux would boot,The server failed to boot,same sense,0.9975892305374146
+Oracle Linux would boot,She was wearing a boot,different senses,0.9861881136894226
+Oracle Linux would boot,He had lost one boot,different senses,0.9937672019004822
+The server failed to boot,She was wearing a boot,different senses,0.990219235420227
+The server failed to boot,He had lost one boot,different senses,0.9954294562339783
+She was wearing a boot,He had lost one boot,same sense,0.9930899739265442

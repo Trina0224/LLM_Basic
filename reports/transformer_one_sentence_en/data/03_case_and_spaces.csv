@@ -1,0 +1,18 @@
+input (repr),count,IDs,raw BPE
+'Oracle',1,[48625],['Oracle']
+'oracle',2,"[273, 6008]","['or', 'acle']"
+' Oracle',1,[18650],['ĠOracle']
+' oracle',2,"[393, 6008]","['Ġor', 'acle']"
+'Oracle Park',2,"[48625, 3250]","['Oracle', 'ĠPark']"
+'Oracle Linux',2,"[48625, 7020]","['Oracle', 'ĠLinux']"
+'oracle Linux',3,"[273, 6008, 7020]","['or', 'acle', 'ĠLinux']"
+'Linux',1,[19314],['Linux']
+' Linux',1,[7020],['ĠLinux']
+'boot',1,[18769],['boot']
+' boot',1,[6297],['Ġboot']
+'boots',2,"[65, 13880]","['b', 'oots']"
+' boots',1,[14412],['Ġboots']
+'AMD',1,[28075],['AMD']
+' AMD',1,[10324],['ĠAMD']
+'NVMe',2,"[27159, 5308]","['NV', 'Me']"
+' NVMe',2,"[23973, 5308]","['ĠNV', 'Me']"

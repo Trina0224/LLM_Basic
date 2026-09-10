@@ -1,0 +1,15 @@
+{
+  "tokenization round-trip": true,
+  "embedding lookup equals model input": true,
+  "Q affine reconstruction": true,
+  "attention rows sum to one": true,
+  "future attention is zero": true,
+  "manual attention matches model": true,
+  "manual first block matches model": true,
+  "MLP is position-wise": true,
+  "same prefix is future-invariant": true,
+  "LM head shares embedding weights": true,
+  "manual logits match model": true,
+  "shifted loss matches model": true,
+  "embedding map and projector rows align": true
+}

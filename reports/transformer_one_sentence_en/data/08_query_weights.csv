@@ -1,0 +1,13 @@
+key position,key token,allowed,attention weight
+13,[sp]Linux,True,0.27216557
+0,At,True,0.13590148
+1,[sp]Oracle,True,0.09036699
+12,[sp]Oracle,True,0.0882564
+10,acle,True,0.076675124
+2,[sp]Park,True,0.048910316
+15,[sp]boot,True,0.042291883
+3,",",True,0.04114644
+9,[sp]or,True,0.037833285
+7,[sp]the,True,0.035373785
+5,ina,True,0.02887778
+8,[sp]old,True,0.026087968

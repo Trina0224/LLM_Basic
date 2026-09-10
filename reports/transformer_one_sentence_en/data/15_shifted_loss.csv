@@ -1,0 +1,21 @@
+position used,input token here,target next token,negative log probability
+0,At,[sp]Oracle,11.744975090026855
+1,[sp]Oracle,[sp]Park,7.98198938369751
+2,[sp]Park,",",0.8967565298080444
+3,",",[sp]Tr,9.246297836303711
+4,[sp]Tr,ina,4.140389442443848
+5,ina,[sp]asked,6.6326422691345215
+6,[sp]asked,[sp]the,2.275843620300293
+7,[sp]the,[sp]old,6.615081310272217
+8,[sp]old,[sp]or,8.603484153747559
+9,[sp]or,acle,3.2263436317443848
+10,acle,[sp]whether,4.424458980560303
+11,[sp]whether,[sp]Oracle,4.611570835113525
+12,[sp]Oracle,[sp]Linux,9.186890602111816
+13,[sp]Linux,[sp]would,2.1980817317962646
+14,[sp]would,[sp]boot,7.56704044342041
+15,[sp]boot,[sp]before,5.212535858154297
+16,[sp]before,[sp]the,1.8947412967681885
+17,[sp]the,[sp]database,7.4739179611206055
+18,[sp]database,[sp]demo,12.138923645019531
+19,[sp]demo,.,1.517874002456665
